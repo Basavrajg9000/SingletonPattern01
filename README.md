@@ -1,0 +1,2 @@
+# SingletonPattern01
+SingletonPattern01
